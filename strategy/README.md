@@ -67,4 +67,5 @@ Apply Strategy pattern with func programming
 - [Refactoring Guru](https://refactoring.guru/design-patterns/strategy)
 - [Wiki pedia](https://en.wikipedia.org/wiki/Strategy_pattern)
 - [FreeCodeCamp](https://www.freecodecamp.org/news/a-beginners-guide-to-the-strategy-design-pattern/)
-- [Refactoring Guru GIthub](https://github.com/RefactoringGuru)
+- [Refactoring Guru Github](https://github.com/RefactoringGuru)
+- [Sourcemaking](https://sourcemaking.com/design_patterns)
